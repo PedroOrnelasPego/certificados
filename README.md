@@ -6,3 +6,5 @@ Minha coleção de certificados
 [:orange_book: Curso de Git e GitHub](https://github.com/PedroOrnelasPego/certificados/files/6346496/Curso.Git.e.GitHub.pdf)
 
 [:orange_book: Curso  Noções Gerais de Direitos Autorais](https://github.com/PedroOrnelasPego/certificados/files/6373647/Curso.-.Nocoes.Gerais.de.Direitos.Autorais.pdf)
+
+[:orange_book: Git e GitHub 20 Horas Certificado Curso em Video](https://github.com/PedroOrnelasPego/certificados/files/6641602/Pedro-Henrique-Ornelas-Pego-Git-e-GitHub-20-Horas-Certificado-Curso-em-Video.pdf)
