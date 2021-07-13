@@ -12,3 +12,5 @@ Minha coleção de certificados
 [:orange_book: Curso  Noções Gerais de Direitos Autorais](https://github.com/PedroOrnelasPego/certificados/files/6373647/Curso.-.Nocoes.Gerais.de.Direitos.Autorais.pdf)
 
 [:orange_book: Grasshopper Fundamentos de codificação I](https://github.com/PedroOrnelasPego/certificados/files/6780470/Grasshopper.Fundamentos.de.codificacao.pdf)
+
+[:orange_book: Grasshopper Fundamentos de codificação II](https://github.com/PedroOrnelasPego/certificados/files/6805597/GrasshopperFundamentosdeProgramacaoIICertificate.pdf)
