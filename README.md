@@ -14,3 +14,5 @@ Minha coleção de certificados
 [:orange_book: Grasshopper Fundamentos de codificação I](https://github.com/PedroOrnelasPego/certificados/files/6780470/Grasshopper.Fundamentos.de.codificacao.pdf)
 
 [:orange_book: Grasshopper Fundamentos de codificação II](https://github.com/PedroOrnelasPego/certificados/files/6805597/GrasshopperFundamentosdeProgramacaoIICertificate.pdf)
+
+[:orange_book: Projetos ágeis com SCRUM](https://github.com/PedroOrnelasPego/certificados/files/6818981/1BAF80B6.pdf)
