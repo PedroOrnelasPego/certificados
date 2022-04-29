@@ -18,3 +18,5 @@ Minha coleção de certificados
 [:orange_book: Projetos ágeis com SCRUM](https://github.com/PedroOrnelasPego/certificados/files/6818981/1BAF80B6.pdf)
 
 [:orange_book: Java OO Introdução à Orientação a Objetos](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/Java%20OO%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pdf)
+
+[:orange_book: Javascript Primeiros passos com a Linguagem](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/Javascript%20Primeiros%20passos%20com%20a%20Linguagem.pdf)
