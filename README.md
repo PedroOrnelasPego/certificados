@@ -20,3 +20,5 @@ Minha coleção de certificados
 [:orange_book: Java OO Introdução à Orientação a Objetos](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/Java%20OO%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pdf)
 
 [:orange_book: Javascript Primeiros passos com a Linguagem](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/Javascript%20Primeiros%20passos%20com%20a%20Linguagem.pdf)
+
+[:orange_book: React - Desenvolvendo com JavaScript](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/React%20-%20Desenvolvendo%20com%20JavaScript.pdf)
