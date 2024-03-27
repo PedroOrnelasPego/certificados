@@ -22,3 +22,5 @@ Minha coleção de certificados
 [:orange_book: Javascript Primeiros passos com a Linguagem](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/Javascript%20Primeiros%20passos%20com%20a%20Linguagem.pdf)
 
 [:orange_book: React - Desenvolvendo com JavaScript](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/React%20-%20Desenvolvendo%20com%20JavaScript.pdf)
+
+[:orange_book: React - Lidando com arquivos estáticos](https://github.com/PedroOrnelasPego/certificados/blob/main/certificados/React%20-%20Lidando%20com%20arquivos%20est%C3%A1ticos.pdf)
